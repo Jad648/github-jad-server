@@ -97,3 +97,4 @@ jobs:
         # against the sigstore community Fulcio instance.
         run: echo "${TAGS}" | xargs -I {} cosign sign --yes {}@${DIGEST}
 الاصدار الاول، من الامن العام القومي
+الآن يتحدث المصدر مباشرة لوضع حل لهذه الخصوصيات
