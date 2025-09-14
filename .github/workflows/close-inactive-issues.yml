@@ -26,3 +26,4 @@ jobs:
           # Start with the oldest items first
           ascending: true
           repo-token: ${{ secrets.GITHUB_TOKEN }}
+cronجزء من الخدمات لماذا لا تريدونني الوصول إلى خصوصياتي
